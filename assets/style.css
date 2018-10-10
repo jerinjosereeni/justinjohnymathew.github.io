@@ -1,5 +1,5 @@
 .container{
-    max-width: 960px;
+    max-width: 860px;
     margin: auto;
 }
 a{
@@ -48,7 +48,7 @@ a:hover{
     color:black;
 }
 .social-icons:hover{
-    color:red;
+    color:black;
 }
 .about{
     padding:0px 90px 0px 90px;
